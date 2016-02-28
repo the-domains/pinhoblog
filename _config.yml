@@ -1,0 +1,14 @@
+layout_spectrum: 0.4982079
+typography_spectrum: 0.9677419
+color:
+  saturation: 0.6221119
+  lightness: 0.1593554
+  brandStrength: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#161616'
+    - '#898787'
+    - '#007AFF'
+    - '#7EBAFB'
+  rhythmicContrast: 0.6262745
+name: Pinhoblog
