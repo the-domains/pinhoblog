@@ -1,14 +1,26 @@
-layout_spectrum: 0.4982079
-typography_spectrum: 0.9677419
 color:
   saturation: 0.6221119
-  lightness: 0.1593554
   brandStrength: 1
+  rhythmicContrast: 0.6262745
   brandColors:
     - '#FFFFFF'
     - '#161616'
     - '#898787'
     - '#007AFF'
     - '#7EBAFB'
-  rhythmicContrast: 0.6262745
+  lightness: 0.1593554
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.4982079
+typography_spectrum: 0.9677419
 name: Pinhoblog
